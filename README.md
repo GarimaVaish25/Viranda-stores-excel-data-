@@ -1,2 +1,2 @@
-# Viranda-stores-excel-data-
-This is the excel file of Viranda stores.
+# Vrinda-stores-excel-data-
+This is the excel file of Vrinda stores.
